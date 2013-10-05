@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
   [super viewDidLoad];
-	[self main];
+  [self main];
 }
 
 - (void)didReceiveMemoryWarning
@@ -35,11 +35,12 @@
                       nil];
   
   //順序付けされたセットを取得する
-  NSOrderedSet *orderdSet;
-  orderdSet = [NSOrderedSet orderedSetWithArray:myArray];
+  NSOrderedSet *orderedSet;
+  orderedSet = [NSOrderedSet orderedSetWithArray:myArray];
   
   //オブジェクトを順番に取得する
   NSLog(@"From myArray");
+    
   [myArray enumeratorObjectsWithOptions:NSEnumerationReverse
                              usingBlock:
    ^(id obj, NSInteger idx, BOOL *stop) {
@@ -47,7 +48,7 @@
    }];
   
   //各オブジェクトを取得する
-  NSLog(@"From orderdSet");
+  NSLog(@"From orderedSet");
   [orderedSet enumeratorObjectsWithOptions:NSEnumerationReverse
                                usingBlock:
    ^(id obj, NSInteger idx, BOOL *stop) {
