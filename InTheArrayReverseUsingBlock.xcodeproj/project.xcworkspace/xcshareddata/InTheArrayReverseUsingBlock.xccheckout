@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>61EA0275-B153-4C7B-A365-86F780B18803</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InTheArrayReverseUsingBlock</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>313B637B-58D7-4E20-8B5E-E421F4962B4C</key>
+		<string>https://github.com/navzou/objc-ns-enumeration-reverse-using-block.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>InTheArrayReverseUsingBlock.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>313B637B-58D7-4E20-8B5E-E421F4962B4C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/navzou/objc-ns-enumeration-reverse-using-block.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>313B637B-58D7-4E20-8B5E-E421F4962B4C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>313B637B-58D7-4E20-8B5E-E421F4962B4C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>objc-ns-enumeration-reverse-using-block</string>
+		</dict>
+	</array>
+</dict>
+</plist>
